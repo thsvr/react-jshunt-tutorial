@@ -2,8 +2,18 @@
 
 This simple app allows users to access a list of resources - links to github repositories with documentation relataded to JavaScript content. This content was got by an API.
 
-<br>
-<br>
+
+
+
+
+<div align="center">
+  <img src="1desktop.png" width="150" height="150">
+  <img src="1mobile.png" width="120" height="120">
+</div>
+
+
+
+## Technologies
 
 This project was built using these technologies.
 
